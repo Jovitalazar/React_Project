@@ -1,0 +1,16 @@
+{
+    "slides": [
+      {
+        "src": "https://img.freepik.com/premium-photo/grand-entrance-hall-hd-8k-wallpaper-stock-photographic-image_1066384-1596.jpg",
+        "alt": "Image 1 for carousel"
+      },
+      {
+        "src": "https://lh3.googleusercontent.com/proxy/4ndVLmcTjc5uhcWW8cqHaCpnYFubwRzMIjiGkqnxC7F0rZxmjG0cbm8EuNcCo_dFlKJDRS0O-StAqKNqAjOEDvLD3DzFIHKatDveUJKb01E7rzLBpO-16iM9PHry8eFMVhSM6On8DFbe3PsI=w1200-h630-p-k-no-nu",
+        "alt": "Image 2 for carousel"
+      },
+      {
+        "src": "https://img.freepik.com/premium-photo/grand-hall-way-design-hd-8k-wallpaper-stock-photographic-image_915071-31857.jpg",
+        "alt": "Image 3 for carousel"
+      }
+    ]
+  }
